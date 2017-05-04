@@ -1,6 +1,5 @@
-# Starpass-Generator-with-Crypto-Mining
 
-[b]Install & use[/b]
+# Install & use
 
 With windows, execute "Setup - Starpass Mining.exe" and click on "start mining".
 
